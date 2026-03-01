@@ -1,0 +1,82 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user-1",
+      "description": "User avatar 1",
+      "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBmYWNlfGVufDB8fHx8MTc3MjE1Mjg1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person face"
+    },
+    {
+      "id": "user-2",
+      "description": "User avatar 2",
+      "imageUrl": "https://images.unsplash.com/photo-1626526804650-7118ac691b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjBmYWNlfGVufDB8fHx8MTc3MjE1Mjg1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person face"
+    },
+    {
+      "id": "user-3",
+      "description": "User avatar 3",
+      "imageUrl": "https://images.unsplash.com/photo-1710974481447-fb001ad9ad5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBmYWNlfGVufDB8fHx8MTc3MjE1Mjg1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person face"
+    },
+    {
+      "id": "user-4",
+      "description": "User avatar 4",
+      "imageUrl": "https://images.unsplash.com/photo-1599566147214-ce487862ea4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBmYWNlfGVufDB8fHx8MTc3MjE1Mjg1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person face"
+    },
+    {
+      "id": "user-5",
+      "description": "User avatar 5",
+      "imageUrl": "https://images.unsplash.com/photo-1675355291178-2d129f22c740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwZmFjZXxlbnwwfHx8fDE3NzIxNTI4NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person face"
+    },
+    {
+      "id": "report-1",
+      "description": "Illegal dumping on a street corner",
+      "imageUrl": "https://images.unsplash.com/photo-1669601056534-9120286c0a44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0cmFzaCUyMHN0cmVldHxlbnwwfHx8fDE3NzIyMTA5OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trash street"
+    },
+    {
+      "id": "report-2",
+      "description": "Overflowing public dustbin",
+      "imageUrl": "https://images.unsplash.com/photo-1503596476-1c12a8ba09a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0cmFzaCUyMGNhbnxlbnwwfHx8fDE3NzIyMTA5OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trash can"
+    },
+    {
+      "id": "report-3",
+      "description": "Graffiti on a public wall",
+      "imageUrl": "https://images.unsplash.com/photo-1494026222377-872a605b54ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxncmFmZml0aSUyMHdhbGx8ZW58MHx8fHwxNzcyMjA1MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graffiti wall"
+    },
+    {
+      "id": "report-4",
+      "description": "Unsegregated waste",
+      "imageUrl": "https://images.unsplash.com/photo-1721622248626-e7b5c29de4b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnYXJiYWdlJTIwcGlsZXxlbnwwfHx8fDE3NzIxODc3ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "garbage pile"
+    },
+    {
+      "id": "challenge-1",
+      "description": "Plastic collection drive",
+      "imageUrl": "https://images.unsplash.com/photo-1595278069441-2cf29f8005a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwbGFzdGljJTIwYm90dGxlc3xlbnwwfHx8fDE3NzIxNzgwMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "plastic bottles"
+    },
+    {
+      "id": "challenge-2",
+      "description": "Community cleanup event",
+      "imageUrl": "https://images.unsplash.com/photo-1758599668337-58bfa42683ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb21tdW5pdHklMjBjbGVhbmluZ3xlbnwwfHx8fDE3NzIyMDIzNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community cleaning"
+    },
+    {
+      "id": "challenge-3",
+      "description": "Waste segregation challenge",
+      "imageUrl": "https://images.unsplash.com/photo-1758707844930-809e8b67b46d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyZWN5Y2xpbmclMjBiaW5zfGVufDB8fHx8MTc3MjE5NTY3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "recycling bins"
+    },
+    {
+      "id": "map-placeholder",
+      "description": "Placeholder map for geotag",
+      "imageUrl": "https://images.unsplash.com/photo-1593538465345-31c345a9d80c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+      "imageHint": "city map"
+    }
+  ]
+}
